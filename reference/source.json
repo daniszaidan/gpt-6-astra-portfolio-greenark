@@ -1,0 +1,1454 @@
+[
+  {
+    "path": "",
+    "images": [
+      {
+        "alt": "danis",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdanis.8fe8be66.webp&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatchlur.a50ad789.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdx_hero_after.5b8f50a0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_dashboard.9717792c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome.6ef6dfd2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "#about",
+        "text": "Scroll To Explore   arrow_downward"
+      },
+      {
+        "href": "#about",
+        "text": "Explore   arrow_downward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "/about",
+        "text": "About Me   arrow_forward"
+      },
+      {
+        "href": "/works",
+        "text": "See All Works   arrow_forward"
+      },
+      {
+        "href": "/works/watchlur",
+        "text": "arrow_forward     WatchLur       Design, Development  Entertainment"
+      },
+      {
+        "href": "/works/dataexchange",
+        "text": "arrow_forward     Data Exchange       Design, Development  Analytics"
+      },
+      {
+        "href": "/works/alrizan",
+        "text": "arrow_forward     Alrizan Dashboard       Development  Business"
+      },
+      {
+        "href": "/works/myindihome",
+        "text": "arrow_forward     My Indihome       Development  Telecom"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Danis Zaidan - Frontend Dev Danis Zaidan Z Get In Touch arrow_forward menu A Passionate, Multidisciplinary, and Creative Frontend Developer Available Scroll To Explore arrow_downward Explore arrow_downward About Danis Zaidan A Developer Who Loves Design Enthusiastic Frontend Developer with 5+ years of experience crafting high quality, visually engaging digital experiences that drive business results. Download CV description About Me arrow_forward Services High quality design and development for impactful digital experiences. What I Do Design Creating intuitive and visually engaging designs that enhance user experience and elevate brand presence. UI/UX Design, Graphic Design, and Branding Development Building fast, scalable, and high performance websites with clean and maintainable code. Frontend Development, Web Development Selected Works Curated projects demonstrating my expertise across various industries. See All Works arrow_forward arrow_forward WatchLur Design, Development Entertainment arrow_forward Data Exchange Design, Development Analytics arrow_forward Alrizan Dashboard Development Business arrow_forward My Indihome Development Telecom Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "about",
+    "images": [
+      {
+        "alt": "Danis Zaidan",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fphoto-danis.2a19a08c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "Awards",
+        "src": "/_next/static/media/awards.07bcfdf7.gif"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feldenring.e6baacd1.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcinepile.d79d79a7.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fphotographer.3dfaeb20.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fart.b3e469a2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "/certificate",
+        "text": "See All Certificates   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " About - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Danis Zaidan About Me A Frontend Developer Hello, Salam Kenal 👋 My name is Danis Zaidan, an enthusiastic Frontend Developer with 5+ years of experience in React and Next.js. I build high quality, user focused digital experiences that drive business results. Passionate about continuous learning and exploring ideas that balance design, functionality, and efficiency. My interest started in high school with Blogger templates, experimenting with HTML and CSS. That curiosity evolved into a passion for programming and UI UX design. An inspiring professor once told me, “Don&#x27;t make it difficult for the User” taught me the importance of creating accessible and intuitive solutions that truly meet people&#x27;s needs. Experiences 5+ years experience in web development industry. Universitas Terbuka Frontend Developer Universitas Terbuka (UT) is Indonesia&#x27;s public open and distance learning university, serving hundreds of thousands of students across Indonesia and abroad. At UT, I work on a complex tax-related web application with dynamic rule based forms for accurate data entry and verification. Designed and built the front-end codebase architecture from scratch with a clear folder structure, state management strategy, and consistent component patterns, ensuring a modular, scalable, and maintainable codebase for long-term development. Implemented a complex tax form with dynamic and conditional logic, including formula calculations involving multiple inputs, to ensure calculation accuracy and reduce potential user errors. Collaborated closely with backend engineers to design and integrate APIs, align business flows, and ensure efficient data communication between frontend and backend. Worked with UI/UX designers to translate designs into a scalable component architecture, while proposing and implementing design improvements to enhance visual quality, usability, and accessibility. Wrote code by applying best practices, clean code principles, and separation of concerns to maintain code quality, clarity, and long-term maintainability. Performed debugging, bug fixing, and performance optimization to keep the application responsive and stable, even under complex calculation scenarios and heavy user input. July 2025 - Present Tangerang, Indonesia See More arrow_downward Telkom Indonesia Frontend Developer Telkom Indonesia is the country&#x27;s largest state-owned telecommunications company, serving over 150M+ customers and playing a key role in Indonesia&#x27;s digital transformation. Key Projects: Data Exchange, My IndiHome, Smart Profile, Smart Capex. Designed, developed, and maintained scalable frontend solutions using the React.js ecosystem, ensuring high performance and maintainability. Conducted unit testing, debugging, and performance optimizations to enhance application stability and efficiency. Led the frontend development team, providing mentorship and guidance to ensure best coding practices and responsiveness across all devices. Developed and enhanced internal dashboards for data management, streamlining internal processes and improving operational efficiency. Collaborated closely with backend engineers to integrate new features seamlessly, ensuring efficient API communication and data flow. Worked alongside UI/UX designers to translate wireframes into reusable and scalable component-based architectures. Revamped the website interface, leading to an improved user experience and improved user interaction. Feb 2020 - Mar 2025 Bandung, Indonesia See More arrow_downward Galajidar Theta Optima FullStack Developer Intern Galajidar Theta Optima is a Bandung-based software house specializing in software development, web solutions, and enterprise solutions. Collaborated closely with the design team to translate UI/UX concepts into responsive and interactive code. Developed a dynamic company profile website and a CMS dashboard using PHP, Materialize, and MySQL to streamline content and data management. Contributed to technical discussions, providing suggestions for feature improvements and system enhancements. Jun 2019 - Aug 2019 Bandung, Indonesia See More arrow_downward Education Telkom University, Diploma of Software Engineering 2017 - 2020. GPA 3.68 Awards Achievements that reflect my dedication to quality and continuous growth. 2nd Web Design OLINAMASI IPB, 2017 4th Web Design OLIVIA Unair, 2018 Finalist UX Design FINDIT! UGM, 2019 Certificates Google UX Design Google, 2025 Mastering TypeScript Udemy, 2023 Web Programming Basics Dicoding, 2019 See All Certificates arrow_forward Outside Work A Cinepile, Gamer, and Photographer 🎬 🎮 📷 When I&#x27;m not working, I enjoy playing games and watching movies. I also love capturing unique perspectives while exploring new places with my phone&#x27;s camera. These activities recharge me, keeping me focused and productive when I get back to work. Casual Gamer My favorite games are AAA RPGs, best enjoyed with a controller while relaxing and enjoying the beautiful scenery. Currently, I&#x27;m playing Elden Ring on Steam. Cinepile I enjoy watching movies of various genres. I love Christopher Nolan&#x27;s films like Inception, Interstellar, and more. I also enjoy movies starring Leonardo DiCaprio, such as Shutter Island, etc. A Photographer? My new hobby for the past few years. It all started when I was taking photos for a project and thought, “Why not try being a photographer as well?”. Oh, and I also enjoy in-game photography! Sometimes an Artist Drawing has been my longtime hobby. Sometimes, I sketch design concepts, logos, wireframes, etc on paper using a pen, as it helps me visualize ideas in their raw form before polishing them digitally. Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works",
+    "images": [
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatchlur.a50ad789.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdx_hero_after.5b8f50a0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_dashboard.9717792c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome.6ef6dfd2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmartcapex.e36e3c63.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan.8b30cad0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes.a808c457.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode.dc1ac4c9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchevalier.f8b80e08.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmediku.07130bb6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "/works/watchlur",
+        "text": "arrow_forward     WatchLur       Design, Development  Entertainment"
+      },
+      {
+        "href": "/works/dataexchange",
+        "text": "arrow_forward     Data Exchange       Design, Development  Analytics"
+      },
+      {
+        "href": "/works/alrizan",
+        "text": "arrow_forward     Alrizan Dashboard       Development  Business"
+      },
+      {
+        "href": "/works/myindihome",
+        "text": "arrow_forward     My Indihome       Development  Telecom"
+      },
+      {
+        "href": "/works/smartcapex",
+        "text": "arrow_forward     SmartCapex       Development  Analytics"
+      },
+      {
+        "href": "/works/zeitplan",
+        "text": "arrow_forward     Zeitplan       Design, Development  Education"
+      },
+      {
+        "href": "/works/weddoes",
+        "text": "arrow_forward     WedDoes       Design, Development, Branding  Event"
+      },
+      {
+        "href": "/works/endlesscode",
+        "text": "arrow_forward     EndlessCode       Design, Development  Education"
+      },
+      {
+        "href": "/works/chevalier",
+        "text": "arrow_forward     Chevalier Design Guidelines       Design  Community"
+      },
+      {
+        "href": "/works/mediku",
+        "text": "arrow_forward     Mediku       Design  Healthcare"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Works - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Works A complete showcase of my works 10 Works arrow_forward WatchLur Design, Development Entertainment arrow_forward Data Exchange Design, Development Analytics arrow_forward Alrizan Dashboard Development Business arrow_forward My Indihome Development Telecom arrow_forward SmartCapex Development Analytics arrow_forward Zeitplan Design, Development Education arrow_forward WedDoes Design, Development, Branding Event arrow_forward EndlessCode Design, Development Education arrow_forward Chevalier Design Guidelines Design Community arrow_forward Mediku Design Healthcare Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "cv",
+    "images": [
+      {
+        "alt": "CV Danis Zaidan 1",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcv_daniszaidan_1.0fc1603f.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "CV Danis Zaidan 2",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcv_daniszaidan_2.a84c28a5.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "/cv_daniszaidan.pdf",
+        "text": "Download CV   arrow_downward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " CV - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Curriculum Vitae Danis Zaidan Download CV arrow_downward Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "certificate",
+    "images": [
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle_ux_design.99bb87ae.jpeg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fudemy_typescript.ba382ffe.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdicoding_web.46f92e64.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesign_a_ux_for_social_good.cb36ae30.jpeg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbuild_dynamic_ui.29aca367.jpeg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcreate_high_fidelity.4673dc84.jpeg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbuild_wireframes.c2ab002c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconduct_ux.b9149afe.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffoundation_ux.172a58d9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstart_ux.efcbb4af.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Folinamasi.82b807a6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Folivia.e42f18ef.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffindit.dddd1f7b.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "no image",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Folivia_telkom.9d024e93.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/professional-cert/ACRL32XP5OO5",
+        "text": "Google UX Design     Google  2025"
+      },
+      {
+        "href": "https://www.udemy.com/certificate/UC-734dcc98-8ecb-4d84-8b46-a809fc088698/",
+        "text": "Mastering TypeScript     Udemy  2023"
+      },
+      {
+        "href": "https://www.dicoding.com/certificates/L4PQ66W47PO1",
+        "text": "Web Programming Basic     Dicoding  2019"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/DPEEZ6JY0QFY",
+        "text": "Design a UX for Social Good and Prepare for Jobs     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/YZ8T982NILK3",
+        "text": "Build Dynamic UI for Websites     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/68P0QYD6VJJ6",
+        "text": "Create High-Fidelity Designs and Prototypes in Figma     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/E0RL05BJXG9B",
+        "text": "Build Wireframes and Low-Fidelity     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/VCNU1C8OFXIN",
+        "text": "Conduct UX Research and Test     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/BS7VN3T3EEB8",
+        "text": "Foundations of UX Design     Google  2025"
+      },
+      {
+        "href": "https://www.coursera.org/account/accomplishments/records/1V09N1RQ8XTY",
+        "text": "Start the UX Design Process     Google  2025"
+      },
+      {
+        "href": "https://www.google.com/search?q=OLINAMASI IPB",
+        "text": "2nd Web Design     OLINAMASI IPB  2017"
+      },
+      {
+        "href": "https://www.google.com/search?q=OLIVIA Unair",
+        "text": "4th Web Design     OLIVIA Unair  2018"
+      },
+      {
+        "href": "https://www.google.com/search?q=FIND IT! UGM",
+        "text": "Finalist UX Design     FIND IT! UGM  2019"
+      },
+      {
+        "href": "https://www.google.com/search?q=OLIVIA Unair",
+        "text": "Participant OLIVIA     Telkom University  2018"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Certificate - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Certificate Danis Zaidan 14 Certificates Google UX Design Google 2025 Mastering TypeScript Udemy 2023 Web Programming Basic Dicoding 2019 Design a UX for Social Good and Prepare for Jobs Google 2025 Build Dynamic UI for Websites Google 2025 Create High-Fidelity Designs and Prototypes in Figma Google 2025 Build Wireframes and Low-Fidelity Google 2025 Conduct UX Research and Test Google 2025 Foundations of UX Design Google 2025 Start the UX Design Process Google 2025 2nd Web Design OLINAMASI IPB 2017 4th Web Design OLIVIA Unair 2018 Finalist UX Design FIND IT! UGM 2019 Participant OLIVIA Telkom University 2018 Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/watchlur",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatchlur.a50ad789.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "watchlur",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatchlur.a50ad789.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "now playing",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnow_playing.d2a5b450.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "top rated",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftop_rated.59c4d17e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "photo video",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fphoto_video.176d67e9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "photo all",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fphoto_all.845359b4.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "video all",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvideo_all.68e0b177.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "search",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsearch.c4e089c0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "detail",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdetail.46228151.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "more detail",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmore_detail.b0d2fb4d.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "actor all",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Factor_all.c95fb8d2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "loading",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Floading.275973d6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "hover",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhover.23e1dbaa.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "responsive",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatchlur_responsive.98043279.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "infinite scroll",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finfinite_scroll.822e784e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "watch provider",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatch_provider.1707c790.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "watch trailer",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwatch_trailer.ed418ea8.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://nextjs.org/",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://www.typescriptlang.org/",
+        "text": "Typescript"
+      },
+      {
+        "href": "https://tailwindcss.com/",
+        "text": "Tailwind CSS"
+      },
+      {
+        "href": "https://www.themoviedb.org/",
+        "text": "The Movie Database (TMDB) API"
+      },
+      {
+        "href": "https://tanstack.com/query",
+        "text": "TanStack Query"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://watchlur.vercel.app/",
+        "text": "watchlur.vercel.app   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " WatchLur - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu WatchLur Design, Development Entertainment Description Watchlur is a movie database website similar to IMDb or TMDB. Originally, this project was created in collaboration with Arkan for the web design competition at Telkom DEVORIA Season 1. My role was UI/UX Designer &amp; Frontend Developer, while Arkan focused on Frontend Development &amp; PWA. Later, in late 2024 - now (this project is still work in progress), I decided to redesign and rebuild the project from scratch as a way to explore design concepts, learning, and enhance my skills in Next.js 14 App Router, Server Component, TypeScript, React Query, animations, and more. Detail Project Role UI/UX Designer, Frontend Developer Team Danis Zaidan Technology Next.js , Typescript , Tailwind CSS , The Movie Database (TMDB) API , TanStack Query , Figma Live Site watchlur.vercel.app arrow_forward Explore Movies and TV Series Find millions of movies and TV series in our database movie library. Get inspired with now playing, top rated, popular, and many more. Media Gallery Organizes and displays trailers, videos, and images related to a movie or TV series, allowing users to explore videos and images in a visually engaging format. Advanced Search Allows users to refine movie and TV series searches using filters and sorting options. It also categorizes results into Movies, TV Series, and People, making it easier and find relevant content. Movie Overview &amp; Details This feature provides key movie information, including title, rating, duration, genres, and synopsis, along with production details such as director, writers, budget, revenue, etc. Cast &amp; Crew View the full list of actors, directors, and crew members for each movie or TV show. Get details about their roles and explore their filmography. More Features to Explore Loading Effect &amp; Caching Watchlur uses skeleton loading for a smooth experience while fetching data. With TanStack Query caching, previously loaded data is stored, reducing refetching and speeding up page loads. Hover Detail Card Watchlur uses skeleton loading for a smooth experience while fetching data. With TanStack Query caching, previously loaded data is stored, reducing refetching and speeding up page loads. Responsive Design Watchlur is fully responsive, ensuring an optimal viewing experience across all devices, from desktops to tablets and smartphones, with a seamless and adaptive layout. Infinite Scroll Enables seamless browsing and smooth experience of movie and TV series lists by dynamically loading more content as users scroll. It utilizes useInfiniteQuery from TanStack Query. Watch Provider The Watch Provider feature helps users find where to stream, rent, or buy movies with direct links from JustWatch via TMDB. Watch Trailer The Trailer Preview feature lets users watch official movie trailers directly via embedded YouTube videos. Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/dataexchange",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdx_hero_after.5b8f50a0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "dx_hero_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdx_hero_before.a106edb4.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "dx_hero_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdx_hero_after.5b8f50a0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "intro_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fintro_before.3d1da68f.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "intro_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fintro_after.2f17b9e6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kategori_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkategori_before.f95bc57e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kategori_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkategori_after.8b73292c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "search_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsearch_before.75ee519a.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "search_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsearch_after.3685c8c9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "katalog_detail_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkatalog_detail_before.448f9c8e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "katalog_detail_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkatalog_detail_after.015c025a.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_before.f6df8726.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_after.a4627d3b.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_list_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_list_before.03388d9e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_list_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_list_after.580b7d32.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_detail_before",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_detail_before.eb364253.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "kisah_detail_after",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkisah_detail_after.15bc8738.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://react.dev/",
+        "text": "React.js"
+      },
+      {
+        "href": "https://redux.js.org/",
+        "text": "Redux"
+      },
+      {
+        "href": "https://mui.com/",
+        "text": "Material UI"
+      },
+      {
+        "href": "https://react-hook-form.com/",
+        "text": "React Hook Form"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://dx.udata.id/",
+        "text": "dx.udata.id   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Data Exchange - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Data Exchange Design, Development Analytics Description Data Exchange is an integrated data management, insight and infographic platform for your business. A comprehensive data and insight management solution driving future advancements. By leveraging secure, validated internal and external data, it delivers valuable insights across Telkom business verticals, showcasing Data Management &amp; Analytics services. This project was collaboratively built by the UI/UX Design team, Frontend Developers, Backend Developers, and Data Analysts. My role began as a Frontend Developer, and I later contributed to redesigning and redeveloping the project. I redesigned this project based on the product owner&#x27;s request to enhance relevance, improve user experience, and align with evolving business needs. The update improved usability, performance, and responsiveness while integrating modern features. Detail Project Role UI/UX Designer, Frontend Developer Team Danis Zaidan, Arkan, Perdana, Yunilucki Technology React.js , Redux , Material UI , React Hook Form , Figma Live Site dx.udata.id arrow_forward Hero Section Before After Introduction Before After Kategori Data Before After Search Before After Katalog Data Detail Before After Kisah Data Before After Kisah Data List Before After Kisah Data Detail Before After Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/alrizan",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_dashboard.9717792c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "alrizan dashboard",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_dashboard.9717792c.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "alrizan login",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_login.5ce7cfca.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "alrizan modal",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_modal.3051c3df.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "alrizan share",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_share.1af3f8bb.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "alrizan table",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falrizan_table.83d53c5f.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://nextjs.org/",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://mui.com/",
+        "text": "MUI (Material UI)"
+      },
+      {
+        "href": "https://redux-toolkit.js.org/",
+        "text": "Redux Toolkit"
+      },
+      {
+        "href": "https://react-hook-form.com/",
+        "text": "React Hook Form"
+      },
+      {
+        "href": "https://github.com/fengyuanchen/compressorjs",
+        "text": "Compressor.js"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://alrizan.vercel.app/",
+        "text": "alrizan.vercel.app   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Alrizan Dashboard - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Alrizan Dashboard Development Business Description A CMS dashboard for efficient and realtime product management and social media integration. Alrizan Dashboard is a powerful content management system (CMS) designed to manage product data efficiently while integrating seamless social media and online shop sharing. With a Firestore Realtime Database, it ensures fast and organized data handling. The system features a minimalist, fully responsive Material Design and supports Google Login with multi-level user management. Product management is enhanced with automated product name recommendations, auto generated descriptions and hashtags, smart detection of incomplete product data, auto-compression image optimization, and easy social media sharing. For media management, it provides lightbox image zoom, batch image downloads, and centralized social media URL management, ensuring a streamlined workflow for store owners. Detail Project Role Frontend Developer Team Danis Zaidan Technology Next.js , MUI (Material UI) , Redux Toolkit , React Hook Form , Compressor.js , Figma Live Site alrizan.vercel.app arrow_forward Product Management Manage product data efficiently with options to add, edit, delete, and share products. The page displays product details, galleries, posting status, brand, gender, clothing type, color, and size. A completion status indicator helps track missing product details. Login with Google Quick and secure access to the dashboard with Google authentication. Product Management Update details, manage images, and link to social media &amp; marketplaces easily. Share Product Easily share product details, pricing, materials, and images with a copyable text and gallery download feature. Brand Management Manage brand data easily with options to add, edit, and delete brands. Search functionality allows quick access to specific brands. Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/myindihome",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome.6ef6dfd2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "myindihome",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome.6ef6dfd2.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "myindihome walktrough",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome_walktrough.b64a0cfd.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "myindihome gameqoo",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyindihome_gameqoo.54595c03.jpg&w=1920&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://react.dev/",
+        "text": "React.js"
+      },
+      {
+        "href": "https://legacy.reactjs.org/docs/context.html",
+        "text": "React Context"
+      },
+      {
+        "href": "https://mui.com/",
+        "text": "Material UI"
+      },
+      {
+        "href": "https://react-joyride.com/",
+        "text": "React Joyride"
+      },
+      {
+        "href": "https://my.indihome.co.id/",
+        "text": "my.indihome.co.id   arrow_forward"
+      },
+      {
+        "href": "https://x.com/IndiHome/status/1224599721454424064",
+        "text": "IndiHome’s X/Twitter"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " My Indihome - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu My Indihome Development Telecom Description A platform for managing IndiHome services, from billing to entertainment. MyIndiHome is a digital platform that supports IndiHome, one of Telkom&#x27;s main products in fixed broadband, IPTV, and home telephone services. It provides users with seamless access to manage their subscriptions, pay bills, monitor usage, and access customer support. Beyond service management, MyIndiHome also integrates entertainment features, allowing users to explore TV channels, video-on-demand, and exclusive offers. Built with a user-friendly interface and optimized performance, it enhances IndiHome&#x27;s service ecosystem. I was part of the core development team, contributing to the Walkthrough feature to improve user onboarding and the GameQoo integration, enabling seamless access to cloud gaming services within the MyIndiHome platform. Detail Project Role Frontend Developer Team Danis Zaidan, Squad A Technology React.js , React Context , Material UI , React Joyride Live Site my.indihome.co.id arrow_forward Walktrough A simple guide that appears when the website is used for the first time. It shows the main features to help users get started quickly. GameQoo Image from IndiHome’s X/Twitter account, for illustrative purposes of my involvement. Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/smartcapex",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsmartcapex.e36e3c63.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://react.dev/",
+        "text": "React.js"
+      },
+      {
+        "href": "https://www.typescriptlang.org/",
+        "text": "Typescript"
+      },
+      {
+        "href": "https://legion.telkom.design/",
+        "text": "Legion UI"
+      },
+      {
+        "href": "https://tanstack.com/query",
+        "text": "TanStack Query"
+      },
+      {
+        "href": "https://tanstack.com/router",
+        "text": "TanStack Router"
+      },
+      {
+        "href": "https://tanstack.com/table",
+        "text": "TanStack Table"
+      },
+      {
+        "href": "https://apexcharts.com/",
+        "text": "ApexCharts.js"
+      },
+      {
+        "href": "https://zod.dev/",
+        "text": "Zod"
+      },
+      {
+        "href": "https://vite.dev/",
+        "text": "Vite"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " SmartCapex - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu SmartCapex Development Analytics Description Dashboard for monitoring and optimizing Telkom&#x27;s network traffic and capacity. SmartCapex is a tool designed to visualize and track Capital Expenditure (CapEx) for Telkom&#x27;s network expansion and maintenance, optimizing traffic and capacity through real-time data and analytics. It ensures efficient resource allocation, prevents congestion, and reduces infrastructure costs. SmartCapex plays a critical role in balancing investment strategies with operational efficiency, enabling data-driven decision-making for scalable network expansions. This dashboard is built using Telkom&#x27;s Legion Design System, ensuring consistency, usability, and seamless integration with Telkom&#x27;s broader digital ecosystem. Detail Project Role Frontend Developer Team Danis Zaidan, Adieb Technology React.js , Typescript , Legion UI , TanStack Query , TanStack Router , TanStack Table , ApexCharts.js , Zod , Vite , Figma Live Site - Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/zeitplan",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan.8b30cad0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan homepage",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_homepage.43b19654.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan schedule",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_schedule.9dffdd09.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan setting",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_setting.a5784699.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan playstore",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_playstore.5529b7d9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_principles",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_principles.efccf8f6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_typography",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_typography.6c4889c3.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_color",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_color.a5275bd0.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_shapes",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_shapes.1291eedd.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_pattern",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_pattern.b429aaf9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_spacings",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_spacings.2ec70bde.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_icons",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_icons.6b2024bf.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "zeitplan_implementation",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzeitplan_implementation.747c1fde.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.java.com/",
+        "text": "Java"
+      },
+      {
+        "href": "https://www.sqlite.org/",
+        "text": "SQLite"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://github.com/daniszaidan/zeitplan",
+        "text": "Github Repository   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Zeitplan - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Zeitplan Design, Development Education Description Zeitplan is an app for tracking daily and class schedules. Zeitplan is an Android app for managing daily and class schedules with a simple, minimalist design. It includes features like reminder notifications, Google account login, schedule downloads for students, and widgets. The app follows the Zeitplan Design System (ZDS), a design system I created for all products developed by the WP Squad team from Telkom University. These products, which were part of a university project, include the Zeitplan app, SmartParking sensor, Instagram banners, posters, PowerPoint presentations, and more. In this team, my roles included Graphic Designer, UX/UI Designer, Android UI Developer, and Scrum Master. Detail Project Role UI/UX and Graphic Designer, Android UI Developer Team Danis Zaidan, Baskoro, Maharani Technology Java , SQLite , Figma Live Site Github Repository arrow_forward Zeitplan App Zeitplan Design System Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/weddoes",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes.a808c457.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "weddoes",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes.a808c457.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "weddoes features",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes_features.74fe900e.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "Template selection",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes_template.65eba50a.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "Price package",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes_price.86c753c1.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "Testimonial",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweddoes_testimoni.daf02829.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://nextjs.org/",
+        "text": "Next.js"
+      },
+      {
+        "href": "https://mui.com/",
+        "text": "Material UI"
+      },
+      {
+        "href": "https://getbootstrap.com/",
+        "text": "Bootstrap"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://weddoes.vercel.app/",
+        "text": "weddoes.vercel.app   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " WedDoes - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu WedDoes Design, Development, Branding Event Description A website online wedding invitations with modern and minimalist designs. WedDoes is an online platform that offers customizable wedding invitation websites, featuring minimalist and contemporary design templates. The service aims to help couples create elegant, modern digital invitations with ease. My role in this project included UI/UX Design, Frontend Development, and Branding Design, where I was responsible for crafting intuitive user experiences, building clean and responsive interfaces, and designing the visual identity of the brand. Detail Project Role UI/UX Designer, Brand Designer, Frontend Developer Team Danis Zaidan, WedDoes Team Technology Next.js , Material UI , Bootstrap , Figma Live Site weddoes.vercel.app arrow_forward WedDoes features Template selection Price package Testimonial Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/endlesscode",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode.dc1ac4c9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode.dc1ac4c9.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode_about",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode_about.71e4da03.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode_course",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode_course.1cf20178.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode_playlist",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode_playlist.7c43a46b.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode_testimoni",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode_testimoni.d0e4c6a5.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "endlesscode_login",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fendlesscode_login.d0dee9ea.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/HTML",
+        "text": "HTML"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/CSS",
+        "text": "CSS"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JavaScript",
+        "text": "Javascript"
+      },
+      {
+        "href": "https://endlesscode.netlify.app/",
+        "text": "endlesscode.netlify.app   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " EndlessCode - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu EndlessCode Design, Development Education Description A website made to help beginners learn programming from scratch. EndlessCode is an educational website to help users learn programming from scratch. It was created with Fadli during our first semester at Telkom University for the OLIVIA 2018 Web Design competition at IPB University in Bogor. The entire platform was built from the ground up using pure HTML, CSS, and JavaScript without relying on any frameworks. The goal was to demonstrate strong fundamentals, creativity, and technical skills in web development. In the end, our team won 2nd place in the competition. Yeaaay 🥳🎉 Detail Project Role UI/UX Designer, Frontend Developer Team Danis Zaidan, Fadli Technology HTML , CSS , Javascript Live Site endlesscode.netlify.app arrow_forward Hero Section About Course Playlist Testimoni Login Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/chevalier",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchevalier.f8b80e08.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "chevalier figma",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchevalier_figma.752dd5fb.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://ravigma.framer.website/",
+        "text": "Ravi Mahfunda"
+      },
+      {
+        "href": "https://www.figma.com/",
+        "text": "Figma"
+      },
+      {
+        "href": "https://www.instagram.com/chevalierlab_sas/",
+        "text": "instagram.com/chevalierlab_sas   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Chevalier Design Guidelines - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Chevalier Design Guidelines Design Community Description Chevalier Lab first design guidelines. Chevalier Lab is a research focused laboratory under the Faculty of Applied Science at Telkom University, operating within the D3 Software Engineering program. It serves as a creative and collaborative space for students who are passionate about learning, exploring, and developing skills in information technology. In 2018, I contributed to Chevalier Lab by creating its first official Design Guidelines, helping establish a clear visual identity and branding for the lab. This work was done under the guidance of Ravi Mahfunda . Detail Project Role Graphic Designer Team Danis Zaidan, Ravi Technology Figma Live Site instagram.com/chevalierlab_sas arrow_forward Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  },
+  {
+    "path": "works/mediku",
+    "images": [
+      {
+        "alt": "hero",
+        "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmediku.07130bb6.jpg&w=3840&q=75"
+      },
+      {
+        "alt": "danis zaidan",
+        "src": "/_next/static/media/footer.9a65326a.svg"
+      }
+    ],
+    "links": [
+      {
+        "href": "/",
+        "text": "Danis  Zaidan  Z"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "/cv",
+        "text": "Download CV   description"
+      },
+      {
+        "href": "mailto:daniszaidan@gmail.com",
+        "text": "Get In Touch   arrow_forward"
+      },
+      {
+        "href": "https://www.linkedin.com/in/daniszaidan",
+        "text": "Linkedin   arrow_forward"
+      },
+      {
+        "href": "https://dribbble.com/daniszaidan",
+        "text": "Dribbble   arrow_forward"
+      },
+      {
+        "href": "https://www.instagram.com/daniszaidan",
+        "text": "Instagram   arrow_forward"
+      },
+      {
+        "href": "https://github.com/daniszaidan",
+        "text": "Github   arrow_forward"
+      }
+    ],
+    "text": " Mediku - Danis Zaidan Danis Zaidan Z Get In Touch arrow_forward menu Mediku Design Healthcare Description Detail coming soon Detail Project Role - Team - Technology - Live Site - Contact Have any project in mind? Let’s work together Download CV description Get In Touch arrow_forward © 2025 Danis Zaidan. Design &amp; Develop by Me. Linkedin arrow_forward Dribbble arrow_forward Instagram arrow_forward Github arrow_forward "
+  }
+]

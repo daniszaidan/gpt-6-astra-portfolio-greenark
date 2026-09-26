@@ -1,0 +1,15 @@
+import { chromium } from '@playwright/test';
+import assert from 'node:assert/strict';
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});
+await page.context().setOffline(true);
+await page.goto(new URL('../index.html',import.meta.url).href);
+await page.evaluate(()=>document.fonts.ready);
+assert.equal(await page.locator('h1').count(),1);
+assert.equal(await page.evaluate(()=>document.fonts.check('500 20px "DM Sans"')),true);
+await page.locator('.desktop-nav a').filter({hasText:'Work'}).click();
+assert.ok(page.url().endsWith('works.html'));
+await page.getByRole('button',{name:'Branding',exact:true}).click();
+assert.equal(await page.locator('.work-card:visible').count(),2);
+console.log('PASS: offline file:// navigation, bundled font, project filtering');
+await browser.close();

@@ -1,0 +1,15 @@
+{
+  "name": "danis-portfolio-edition-02",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node scripts/verify.mjs",
+    "test:browser": "node scripts/browser-test.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

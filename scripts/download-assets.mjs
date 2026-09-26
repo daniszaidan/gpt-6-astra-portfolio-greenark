@@ -1,0 +1,20 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const root=new URL('../',import.meta.url);
+const pages=JSON.parse(await fs.readFile(new URL('reference/source.json',root),'utf8'));
+await fs.mkdir(new URL('assets/images/',root),{recursive:true});
+const map={};
+const images=[...new Set(pages.flatMap(p=>p.images.map(i=>i.src)))];
+for(let i=0;i<images.length;i+=6)await Promise.all(images.slice(i,i+6).map(async src=>{
+ const url=new URL(src,'https://daniszaidan.vercel.app');
+ const original=url.searchParams.get('url')||url.pathname;
+ const name=path.basename(original);
+ const response=await fetch(new URL(original,url.origin));
+ if(!response.ok)throw Error(response.status+' '+original);
+ await fs.writeFile(new URL('assets/images/'+name,root),Buffer.from(await response.arrayBuffer()));
+ map[src]='assets/images/'+name;
+}));
+const cv=pages.find(p=>p.path==='cv');
+console.log('CV links',JSON.stringify(cv.links));
+await fs.writeFile(new URL('reference/asset-map.json',root),JSON.stringify(map,null,2));
+console.log('Downloaded',Object.keys(map).length,'original assets');
